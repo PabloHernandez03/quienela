@@ -7,11 +7,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        first: '#007EA7', // Rojo
-        second: '#00A7E1', // Piel
-        third: '#003459', // Verde bajo
-        fourth: '#FFFFFF', // Verde
-        fifth: '#00171F', // Verde fuerte
+        first: '#007EA7', // Cerulean
+        second: '#00A7E1', // Picton blue
+        third: '#003459', // Prussian blue
+        fourth: '#FFFFFF', // White
+        fifth: '#00171F', // Rich black
       },
     },
   },

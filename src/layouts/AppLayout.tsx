@@ -14,8 +14,8 @@ export default function AppLayout() {
             
             <DashBoardView />
 
-            <footer className="py-5">
-                <p className="text-center font-mono text-fifth">       
+            <footer className="py-5 bg-fifth">
+                <p className="text-center font-mono text-white">       
                     Todos los derechos reservados, {new Date().getFullYear()}
                 </p>
             </footer>
