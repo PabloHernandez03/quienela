@@ -112,9 +112,9 @@ export default function DashBoardView() {
               >
                 <div className="flex items-center justify-center w-full">
                 {league.name !== "Ligue 1" ? (
-                    <img src={league.logo} alt={league.name} className="w-1/5" />
+                    <img src={league.logo} alt={league.name} className="w-1/5 sm:w-20 xl:w-1/5" />
                 ) : (
-                    <img src={league.logo} alt={league.name} className="w-1/5 my-5" />
+                    <img src={league.logo} alt={league.name} className="w-1/5 sm:w-20 xl:w-1/5 my-5" />
                 )}
                   <div className="text-center m-2 text-white text-xl font-bold">
                     <h2>{league.name}</h2>
