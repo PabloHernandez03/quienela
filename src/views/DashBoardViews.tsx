@@ -104,11 +104,11 @@ export default function DashBoardView() {
 
       return (
         <>
-          <div className="flex flex-wrap justify-center gap-12 my-10">
+          <div className="flex flex-wrap justify-center mt-10">
             {leagues.map((league, index) => (
               <div
                 key={index}
-                className="bg-first w-4/5 xl:w-1/3 flex flex-col items-center justify-center rounded-3xl"
+                className="bg-first w-4/5 lg:w-[460px] xl:w-[550px] flex flex-col items-center justify-center rounded-3xl mb-10 mx-5"
               >
                 <div className="flex items-center justify-center w-full">
                 {league.name !== "Ligue 1" ? (
