@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Premier League",
+        "logo": "inglaterra",
+        "folder": "inglaterra",
+        "matches": [
+            { "homeTeam": "Manchester City", "awayTeam": "Chelsea", "date": "2024-12-26", "time": "16:00" },
+            { "homeTeam": "Liverpool", "awayTeam": "Arsenal", "date": "2024-12-27", "time": "18:30" }
+        ]
+    },
+    {
+        "name": "Serie A",
+        "logo": "italia",
+        "folder": "italia",
+        "matches": [
+            { "homeTeam": "Juventus", "awayTeam": "Milan", "date": "2024-12-26", "time": "15:00" },
+            { "homeTeam": "Napoli", "awayTeam": "Inter", "date": "2024-12-27", "time": "20:00" }
+        ]
+    },
+    {
+        "name": "LaLiga",
+        "logo": "espana",
+        "folder": "espana",
+        "matches": [
+            { "homeTeam": "Barcelona", "awayTeam": "Real Madrid", "date": "2024-12-26", "time": "21:00" },
+            { "homeTeam": "Atletico Madrid", "awayTeam": "Sevilla", "date": "2024-12-27", "time": "19:00" }
+        ]
+    },
+    {
+        "name": "Bundesliga",
+        "logo": "alemania",
+        "folder": "alemania",
+        "matches": [
+            { "homeTeam": "Bayern Munich", "awayTeam": "Dortmund", "date": "2024-12-26", "time": "17:00" },
+            { "homeTeam": "Leipzig", "awayTeam": "Leverkusen", "date": "2024-12-27", "time": "15:30" }
+        ]
+    },
+    {
+        "name": "Ligue 1",
+        "logo": "francia",
+        "folder": "francia",
+        "matches": [
+            { "homeTeam": "PSG", "awayTeam": "Marseille", "date": "2024-12-26", "time": "20:45" },
+            { "homeTeam": "Lyon", "awayTeam": "Monaco", "date": "2024-12-27", "time": "18:15" }
+        ]
+    }
+]

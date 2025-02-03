@@ -1,0 +1,22 @@
+    [
+        { "name": "Manchester City", "logo": "manchestercity" },
+        { "name": "Chelsea", "logo": "chelsea" },
+        { "name": "Liverpool", "logo": "liverpool" },
+        { "name": "Arsenal", "logo": "arsenal" },
+        { "name": "Juventus", "logo": "juventus" },
+        { "name": "Milan", "logo": "milan" },
+        { "name": "Napoli", "logo": "napoli" },
+        { "name": "Inter", "logo": "inter" },
+        { "name": "Barcelona", "logo": "barcelona" },
+        { "name": "Real Madrid", "logo": "realmadrid" },
+        { "name": "Atletico Madrid", "logo": "atleticomadrid" },
+        { "name": "Sevilla", "logo": "Sevilla" },
+        { "name": "Bayern Munich", "logo": "bayernmunich" },
+        { "name": "Dortmund", "logo": "dortmund" },
+        { "name": "Leipzig", "logo": "leipzig" },
+        { "name": "Leverkusen", "logo": "leverkusen" },
+        { "name": "PSG", "logo": "psg" },
+        { "name": "Marseille", "logo": "marseille" },
+        { "name": "Lyon", "logo": "lyon" },
+        { "name": "Monaco", "logo": "monaco" }
+    ]

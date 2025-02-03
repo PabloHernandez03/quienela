@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Premier League",
+        "logo": "premier-league.png",
+        "folder": "premier-league"
+    },
+    {
+        "name": "Serie A",
+        "logo": "serie-a.png",
+        "folder": "serie-a"
+    },
+    {
+        "name": "LaLiga",
+        "logo": "laliga.png",
+        "folder": "laliga"
+    },
+    {
+        "name": "Bundesliga",
+        "logo": "bundesliga.png",
+        "folder": "bundesliga"
+    },
+    {
+        "name": "Ligue 1",
+        "logo": "ligue-1.png",
+        "folder": "ligue-1"
+    }
+]
